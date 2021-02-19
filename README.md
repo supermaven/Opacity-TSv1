@@ -8,11 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Clone the repo
-
-```
-```
-
 Install dependencies
 
 ```
@@ -30,13 +25,6 @@ Navigate to url
 [http://localhost:3001/](http://localhost:3001/)
 
 ### Deploying
-
-Clone the repo
-
-```
-
-```
-
 Install dependencies
 
 ```
@@ -94,12 +82,6 @@ https://docs.cypress.io/guides/references/best-practices.html
 ## Deployment
 
 
-
-SSH into server
-
-```
-
-```
 
 Run these commands
 
